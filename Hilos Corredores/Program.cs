@@ -28,8 +28,12 @@ namespace Hilos_Corredores
             corredorD.Start("Corredor D");
             corredorE.Start("Corredor E");
 
+            // Esperar a que todos los corredores terminen antes de continuar con la ejecución del programa
             corredorA.Join();
             corredorB.Join();
+            corredorC.Join();
+            corredorD.Join();
+            corredorE.Join();
 
             Console.WriteLine("¡Carrera terminada!");
         }
