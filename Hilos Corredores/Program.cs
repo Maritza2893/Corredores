@@ -21,8 +21,12 @@ namespace Hilos_Corredores
             Thread corredorD = new Thread(Correr);
             Thread corredorE = new Thread(Correr);
 
+            //inicia lo hilos y pasa el nombre del corredor como argumento
             corredorA.Start("Corredor A");
             corredorB.Start("Corredor B");
+            corredorC.Start("Corredor C");
+            corredorD.Start("Corredor D");
+            corredorE.Start("Corredor E");
 
             corredorA.Join();
             corredorB.Join();
