@@ -40,12 +40,17 @@ namespace Hilos_Corredores
 
         static void Correr(object nombre)
         {
+            // Crear una instancia de Random para generar tiempos de espera aleatorios
             Random rnd = new Random();
+            // Simular la carrera haciendo que el corredor avance en 10 pasos
             for (int pasos = 1; pasos <= 10; pasos++)
             {
+                // Mostrar el avance del corredor en la consola
                 Console.WriteLine($"{nombre} avanzó a la posición: {pasos}");
+                // Simular una velocidad variable con un tiempo de espera aleatorio entre 100 y 500 ms
                 Thread.Sleep(rnd.Next(100, 500)); // Velocidad aleatoria
             }
+            // Indicar que el corredor ha terminado la carrera
             Console.WriteLine($"🏁 {nombre} terminó la carrera!");
         }
     }
