@@ -5,3 +5,10 @@ C:\Users\CICEM\source\Proyecto\Hilos Corredores\Hilos Corredores\obj\Debug\Hilos
 C:\Users\CICEM\source\Proyecto\Hilos Corredores\Hilos Corredores\obj\Debug\Hilos Corredores.csproj.CoreCompileInputs.cache
 C:\Users\CICEM\source\Proyecto\Hilos Corredores\Hilos Corredores\obj\Debug\Hilos Corredores.exe
 C:\Users\CICEM\source\Proyecto\Hilos Corredores\Hilos Corredores\obj\Debug\Hilos Corredores.pdb
+C:\Users\lenin\Source\Repos\Corredores\Hilos Corredores\bin\Debug\Hilos Corredores.exe.config
+C:\Users\lenin\Source\Repos\Corredores\Hilos Corredores\bin\Debug\Hilos Corredores.exe
+C:\Users\lenin\Source\Repos\Corredores\Hilos Corredores\bin\Debug\Hilos Corredores.pdb
+C:\Users\lenin\Source\Repos\Corredores\Hilos Corredores\obj\Debug\Hilos Corredores.csproj.AssemblyReference.cache
+C:\Users\lenin\Source\Repos\Corredores\Hilos Corredores\obj\Debug\Hilos Corredores.csproj.CoreCompileInputs.cache
+C:\Users\lenin\Source\Repos\Corredores\Hilos Corredores\obj\Debug\Hilos Corredores.exe
+C:\Users\lenin\Source\Repos\Corredores\Hilos Corredores\obj\Debug\Hilos Corredores.pdb
