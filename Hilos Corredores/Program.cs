@@ -32,7 +32,7 @@ namespace Hilos_Corredores
             corredorA.Join();
             corredorB.Join();
             corredorC.Join();
-            corredorD.Join();
+            corredorD.Join(); 
             corredorE.Join();
 
             Console.WriteLine("¡Carrera terminada!");
